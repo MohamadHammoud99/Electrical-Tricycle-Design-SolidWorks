@@ -1,4 +1,4 @@
-# Electrical-Tricycle-Design-
+# Electrical-Tricycle-Design-SolidWorks
 
 - Technologie III
 - Team of 6 students
